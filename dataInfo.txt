@@ -1,0 +1,3 @@
+data info:
+data.X - features (the n'th feature vector is data.X(:,n))
+data.Y - binary label indicating vowel (1) or non-vowel (0) frame.
